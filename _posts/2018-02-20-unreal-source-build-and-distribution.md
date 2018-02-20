@@ -48,5 +48,9 @@ comments: true
 
 딱히 문서도 없고 그걸 다 파볼 여유도 없어서 적당한 용량 선에서 합의봄
 
-* \- /Engine/Documentation
-
+* /Engine/
+  * \- /Documentaion
+  * /Build
+    * \- SourceDistribution.txt
+    * \+ InstalledBuild.txt
+    
