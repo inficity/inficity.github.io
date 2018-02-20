@@ -18,6 +18,8 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+![주석](https://lh6.googleusercontent.com/yDSZ9GromnngOjRF4TsxDDT5OPgVEis1qX37jyZZ4fot4YWWfh52HEg1MlgzDaFMUqsnZ16WpsZc681AmIlwdVMG4yTnuOC4GnUpbA3Shq9TN58eSKcSE6t3WQ6GlmH--Q)
+
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
