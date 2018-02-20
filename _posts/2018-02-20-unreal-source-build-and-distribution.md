@@ -12,10 +12,10 @@ comments: true
 ## InstalledBuild.txt
 언리얼을 소스로 빌드하면
 > /Engine/Build/SourceDistribution.txt
->
+
 파일이 생기는데 배포 시에는 이 파일은 삭제하고
 > /Engine/Build/InstalledBuild.txt
->
+
 파일을 넣어줘야 에디터 실행 시 엔진을 빌드(?!)하려고 하지 않는다.
 
 ## 빌드된 엔진 레지스트리 등록
